@@ -6,9 +6,9 @@
   - [osTicket Deployment on Azure Windows VM](https://github.com/aghimire2025/osticket-prereqs)
   - [osTicket Configuration and Customization](https://github.com/aghimire2025/post-install-config)
   - [osTicket Ticket Management and Workflow Simulation](https://github.com/aghimire2025/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aghimire2025/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aghimire2025/azure-network-protocols)
+- <b>Active Directory in Microsoft Azure</b>
+  - [Active Directory Domain Services Setup and User Management in Azure](https://github.com/aghimire2025/configure-ad)
+  - [Account Lockout Policy and User Account Management in Active Directory](https://github.com/aghimire2025/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
