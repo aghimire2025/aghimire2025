@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket Deployment on Azure Windows VM](https://github.com/aghimire2025/osticket-prereqs)
+  - [osTicket Deployment on Azure Windows VM](https://github.com/aghimire2025/osticket-deployment)
   - [osTicket Configuration and Customization](https://github.com/aghimire2025/post-install-config)
   - [osTicket Ticket Management and Workflow Simulation](https://github.com/aghimire2025/ticket-lifecycle)
 - <b>Active Directory in Microsoft Azure</b>
