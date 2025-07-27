@@ -4,8 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket Deployment on Azure Windows VM](https://github.com/aghimire2025/osticket-deployment)
-  - [osTicket Configuration and Customization](https://github.com/aghimire2025/post-install-config)
-  - [osTicket Ticket Management and Workflow Simulation](https://github.com/aghimire2025/ticket-lifecycle)
+  - [osTicket Configuration and Customization](https://github.com/aghimire2025/osticket-config)
+  - [osTicket Ticket Management and Workflow Simulation](https://github.com/aghimire2025/osticket-workflow)
 - <b>Active Directory in Microsoft Azure</b>
   - [Active Directory Domain Services Setup and User Management in Azure](https://github.com/aghimire2025/configure-ad)
   - [Account Lockout Policy and User Account Management in Active Directory](https://github.com/aghimire2025/azure-network-protocols)
