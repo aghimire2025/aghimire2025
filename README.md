@@ -9,6 +9,7 @@
 - <b>Active Directory in Microsoft Azure</b>
   - [Domain Controller and Client VM Setup in Azure](https://github.com/aghimire2025/dc1-client-setup)
   - [Account Lockout Policy and User Account Management in Active Directory](https://github.com/aghimire2025/ad-policy-mgmt)
+  - [Active Directory Domain Services Setup and User Management in Azure](https://github.com/aghimire2025/ad-domain-mgmt)
 
 <h2>🤳Connect with me:</h2>
 
