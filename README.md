@@ -8,8 +8,9 @@
   - [osTicket Ticket Management and Workflow Simulation](https://github.com/aghimire2025/osticket-workflow)
 - <b>Active Directory in Microsoft Azure</b>
   - [Domain Controller and Client VM Setup in Azure](https://github.com/aghimire2025/dc1-client-setup)
-  - [Account Lockout Policy and User Account Management in Active Directory](https://github.com/aghimire2025/ad-policy-mgmt)
   - [Active Directory Domain Services Setup and User Management in Azure](https://github.com/aghimire2025/ad-domain-mgmt)
+  - [Account Lockout Policy and User Account Management in Active Directory](https://github.com/aghimire2025/ad-policy-mgmt)
+  
 - <b>Azure Compute and Networking</b>
   - [Network Traffic Monitoring in Azure Using Wireshark](https://github.com/aghimire2025/network-traffic)
  
